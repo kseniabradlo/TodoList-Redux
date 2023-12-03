@@ -1,0 +1,10 @@
+.one-task{
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+    background-color: #e1dede;
+    border-radius: 8px;
+    padding: 5px 20px 5px 10px;
+    justify-content: space-between;
+    align-items: center;
+}
